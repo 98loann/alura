@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cd4388e-9a54-4a54-b1e6-af1c0a4f92e0" name="Changes" comment="Atualizando">
-      <change afterPath="$PROJECT_DIR$/src/NumeroAleatorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContaBancaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +62,8 @@
       <workItem from="1681431038955" duration="794000" />
       <workItem from="1681474622265" duration="5361000" />
       <workItem from="1681510405210" duration="4079000" />
+      <workItem from="1681655176191" duration="27000" />
+      <workItem from="1681655256345" duration="4074000" />
     </task>
     <task id="LOCAL-00001" summary="Atualizando">
       <created>1681431456076</created>
