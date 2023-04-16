@@ -3,7 +3,7 @@ public class ContaBancaria {
 
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
-        float saldoConta = 0;
+        float saldoConta;
         String dados;
         int operacao;
         System.out.println("Qual seu nome? ");
@@ -19,7 +19,7 @@ public class ContaBancaria {
                 Nome: %s !
                 Tipo conta: %s
                 Saldo inicial: $%.2f
-                ******************************* 
+                *******************************\s
                 """.formatted(nome, tipoConta, saldoConta);
         System.out.println(dados);
         System.out.println("\n Operacoes \n");
@@ -34,16 +34,14 @@ public class ContaBancaria {
             System.out.println(operacoes);
             operacao = leitor.nextInt();
             switch (operacao) {
-                case 1:
-                    System.out.println(saldoConta);
-                    break;
-                case 2:
+                case 1 -> System.out.println(saldoConta);
+                case 2 -> {
                     System.out.println("Qual valor a ser recebido ?");
                     float valorReceber = leitor.nextFloat();
                     saldoConta += valorReceber;
                     System.out.println(saldoConta);
-                    break;
-                case 3:
+                }
+                case 3 -> {
                     System.out.println("Qual valor deseja transferir? ");
                     float valorTransferir = leitor.nextFloat();
                     if (valorTransferir > saldoConta) {
@@ -51,9 +49,8 @@ public class ContaBancaria {
                     } else
                         saldoConta -= valorTransferir;
                     System.out.println(saldoConta);
-                    break;
-                    default:
-                        System.out.println("Ate mais!");
+                }
+                default -> System.out.println("Ate mais!");
             }
         }while (operacao != 4) ;
     }
