@@ -50,7 +50,9 @@ public class ContaBancaria {
                         saldoConta -= valorTransferir;
                     System.out.println(saldoConta);
                 }
-                default -> System.out.println("Ate mais!");
+            }
+            if (operacao > 4 ) {
+                System.out.println("Operacao Invalida");
             }
         }while (operacao != 4) ;
     }
