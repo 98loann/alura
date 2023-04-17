@@ -28,7 +28,23 @@ public class Titulo {
             this.duracaoEmMinutos = duracaoEmMinutos;
         }
 
-        public void exibeFichaTecnica() {
+    public int getAnoDeLancamento() {
+        return anoDeLancamento;
+    }
+
+    public boolean isIncluidoNoPlano() {
+        return incluidoNoPlano;
+    }
+
+    public double getSomaDasAvaliacoes() {
+        return somaDasAvaliacoes;
+    }
+
+    public int getDuracaoEmMinutos() {
+        return duracaoEmMinutos;
+    }
+
+    public void exibeFichaTecnica() {
             System.out.println("Nome do filme: " + nome);
             System.out.println("Ano de lançamento: " + anoDeLancamento);
             System.out.println("Duração em Minutos: " + duracaoEmMinutos);
