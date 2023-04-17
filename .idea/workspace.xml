@@ -39,6 +39,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Administrador/Documents/Java/alura",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,6 +64,7 @@
       <workItem from="1681655176191" duration="27000" />
       <workItem from="1681655256345" duration="4506000" />
       <workItem from="1681659837505" duration="836000" />
+      <workItem from="1681743049440" duration="43000" />
     </task>
     <task id="LOCAL-00001" summary="Atualizando">
       <created>1681431456076</created>
@@ -148,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681740881774</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Atualizando">
+      <created>1681743083285</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1681743083285</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
