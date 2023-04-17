@@ -1,5 +1,6 @@
 import screenmatch.Filme;
-import screenmatch.Filme;
+import screenmatch.Serie;
+
 public class Principal {
     public static void main(String[] args) {
         Filme meuFilme = new Filme();
@@ -13,5 +14,9 @@ public class Principal {
         meuFilme.avalia(10);
         System.out.println("Total de avaliações: " +meuFilme.getTotalDeAvaliacoes());
         System.out.println(meuFilme.pegaMedia());
+        Serie lost = new Serie();
+        lost.setNome("Lost");
+        lost.setAnoDeLancamento(2000);
+        lost.exibeFichaTecnica();
     }
 }
