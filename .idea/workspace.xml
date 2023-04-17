@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cd4388e-9a54-4a54-b1e6-af1c0a4f92e0" name="Changes" comment="Atualizando">
+      <change afterPath="$PROJECT_DIR$/src/screenmatch/Calculos/Calculadora.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaBancaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screenmatch/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/screenmatch/Serie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screenmatch/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/screenmatch/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +29,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2OOQQ67gk08OI5Kt4OSxgWZpnMU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -39,14 +45,16 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Administrador/Documents/JavaScript/inicio",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "inlay.hints",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -65,6 +73,8 @@
       <workItem from="1681655176191" duration="27000" />
       <workItem from="1681655256345" duration="4506000" />
       <workItem from="1681659837505" duration="836000" />
+      <workItem from="1681743049440" duration="43000" />
+      <workItem from="1681758958769" duration="7910000" />
     </task>
     <task id="LOCAL-00001" summary="Atualizando">
       <created>1681431456076</created>
@@ -129,7 +139,49 @@
       <option name="project" value="LOCAL" />
       <updated>1681659681676</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Atualizando">
+      <created>1681733252979</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681733252979</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Atualizando">
+      <created>1681736587867</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1681736587867</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Atualizando">
+      <created>1681740881774</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1681740881774</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Atualizando">
+      <created>1681743083285</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1681743083285</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Atualizando">
+      <created>1681761447855</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1681761447856</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Atualizando">
+      <created>1681771262321</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1681771262321</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
