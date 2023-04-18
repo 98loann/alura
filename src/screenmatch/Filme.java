@@ -1,6 +1,8 @@
 package screenmatch;
 
-public class Filme extends Titulo {
+import screenmatch.Calculos.Classificacao;
+
+public class Filme extends Titulo implements Classificacao {
     private String diretor;
 
     public String getDiretor() {
@@ -9,5 +11,10 @@ public class Filme extends Titulo {
 
     public void setDiretor(String diretor) {
         this.diretor = diretor;
+    }
+
+    @Override
+    public int getEstrelas() {
+        return (int)pegaMedia() /2;
     }
 }

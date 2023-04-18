@@ -1,5 +1,6 @@
 package screenmatch.Calculos;
 
-public class Classificavel {
-    
+public interface Classificacao {
+    int getEstrelas();
+
 }
