@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cd4388e-9a54-4a54-b1e6-af1c0a4f92e0" name="Changes" comment="Atualizando">
-      <change afterPath="$PROJECT_DIR$/src/screenmatch/Calculos/Classificacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screenmatch/Calculos/FiltroRecomendacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screenmatch/Episodio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screenmatch/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/screenmatch/Filme.java" afterDir="false" />
+    <list default="true" id="0cd4388e-9a54-4a54-b1e6-af1c0a4f92e0" name="Changes" comment="...">
+      <change afterPath="$PROJECT_DIR$/src/AppDeMusicas/modelos/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AppDeMusicas/modelos/MinhasPreferidas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AppDeMusicas/modelos/Musica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AppDeMusicas/modelos/Podcasts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AppDeMusicas/principal/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +58,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppDeMusicas.principal.Principal" />
+      <module name="alura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AppDeMusicas.principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Principal" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,7 +95,7 @@
       <workItem from="1681659837505" duration="836000" />
       <workItem from="1681743049440" duration="43000" />
       <workItem from="1681758958769" duration="8660000" />
-      <workItem from="1681827091380" duration="1783000" />
+      <workItem from="1681827091380" duration="7872000" />
     </task>
     <task id="LOCAL-00001" summary="Atualizando">
       <created>1681431456076</created>
@@ -190,7 +209,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681773172201</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Atualizando">
+      <created>1681829221528</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1681829221528</updated>
+    </task>
+    <task id="LOCAL-00018" summary="...">
+      <created>1681832398992</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1681832398992</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +232,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Atualizando" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualizando" />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
 </project>
