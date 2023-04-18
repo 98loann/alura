@@ -4,6 +4,8 @@ import screenmatch.Episodio;
 import screenmatch.Filme;
 import screenmatch.Serie;
 
+import java.util.ArrayList;
+
 public class Principal {
     public static void main(String[] args) {
         Filme meuFilme = new Filme();
@@ -46,5 +48,18 @@ public class Principal {
         episodio.setSerie(lost);
         episodio.setTotalVisualizacoes(300);
         filtro.filtra(episodio);
+        var filmeDoLuan = new Filme();
+        filmeDoLuan.setNome("O Fabuloso Destino de Amélie Poulain");
+        filmeDoLuan.setDuracaoEmMinutos(132);
+        filmeDoLuan.setAnoDeLancamento(2002);
+        filmeDoLuan.avalia(10);
+
+        ArrayList<Filme> listaDeFilmes = new ArrayList<>();
+        listaDeFilmes.add(filmeDoLuan);
+        listaDeFilmes.add(meuFilme);
+        listaDeFilmes.add(outroFilme);
+        System.out.println("Tamanho da lista: " + listaDeFilmes.size());
+        System.out.println("Primeiro filme: " + listaDeFilmes.get(0).getNome());
+        System.out.println(listaDeFilmes);
     }
 }
