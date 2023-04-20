@@ -1,8 +1,6 @@
 package screenmatch.Calculos;
 
-import screenmatch.Filme;
-import screenmatch.Serie;
-import screenmatch.Titulo;
+import screenmatch.Modelos.Titulo;
 
 public class Calculadora {
     private int tempoTotal;

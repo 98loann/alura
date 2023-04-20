@@ -1,7 +1,5 @@
 package screenmatch.Calculos;
 
-import screenmatch.Episodio;
-
 public class FiltroRecomendacao {
     public void filtra(Classificacao classificacao){
         if (classificacao.getEstrelas()>=4){

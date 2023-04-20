@@ -1,4 +1,4 @@
-package screenmatch;
+package screenmatch.Modelos;
 
 public class Serie extends Titulo{
     private int temporadas;

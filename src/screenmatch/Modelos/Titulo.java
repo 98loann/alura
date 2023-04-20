@@ -1,4 +1,4 @@
-package screenmatch;
+package screenmatch.Modelos;
 
 public class Titulo {
         private String nome;

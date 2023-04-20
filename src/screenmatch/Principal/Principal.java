@@ -1,8 +1,10 @@
+package screenmatch.Principal;
+
 import screenmatch.Calculos.Calculadora;
 import screenmatch.Calculos.FiltroRecomendacao;
-import screenmatch.Episodio;
-import screenmatch.Filme;
-import screenmatch.Serie;
+import screenmatch.Modelos.Episodio;
+import screenmatch.Modelos.Filme;
+import screenmatch.Modelos.Serie;
 
 import java.util.ArrayList;
 
