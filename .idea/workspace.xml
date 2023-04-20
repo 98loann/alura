@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0cd4388e-9a54-4a54-b1e6-af1c0a4f92e0" name="Changes" comment="...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screenmatch/Principal/principalComListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/screenmatch/Principal/principalComListas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,14 +55,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Principal (1)">
-    <configuration name="Principal (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Principal" />
-      <module name="alura" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AppDeMusicas.principal.Principal" />
       <module name="alura" />
@@ -75,9 +69,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="screenmatch.Principal.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="screenmatch.Principal.Principal" />
+      <module name="alura" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Principal (1)" />
+        <item itemvalue="Application.screenmatch.Principal.Principal" />
         <item itemvalue="Application.Principal" />
       </list>
     </recent_temporary>
@@ -101,6 +102,7 @@
       <workItem from="1681758958769" duration="8660000" />
       <workItem from="1681827091380" duration="13243000" />
       <workItem from="1681914201920" duration="84000" />
+      <workItem from="1681996173534" duration="1434000" />
     </task>
     <task id="LOCAL-00001" summary="Atualizando">
       <created>1681431456076</created>
@@ -249,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681854003363</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="...">
+      <created>1681997414618</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1681997414618</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
